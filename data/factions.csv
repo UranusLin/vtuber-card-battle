@@ -1,0 +1,7 @@
+id,code,display_name,style,member_count,theme,description
+1,DEEP_SPACE,極深空計畫,BALANCED,4,宇宙天體,以音樂為核心的全能團體。成員之間有強力的 Combo 增益效果。
+2,RESCUTE,瀕臨絕種團,DEFENSIVE,3,台灣瀕危動物,防禦型團體。高 HP、嘲諷、回血，擅長持久戰。
+3,CELESTIAL,瑟拉斯蒂歐,CONTROL,4,特殊氣象現象,控制型團體。凍結敵方、反傷、拖慢節奏。
+4,TIMAEUS,諦覓司,AGGRESSIVE,4,武器/聖器,攻擊型男團。高 ATK、衝鋒、連擊，速戰速決。
+5,PARADOX,五律悖反,SPECIAL,2,物理學悖論,特殊型團體。成員少但 Combo 極強，高風險高回報。
+6,NEUTRAL,中立,NEUTRAL,0,通用,不屬於任何陣營的通用卡牌。

@@ -1,0 +1,5 @@
+keyword,display_name,description,implementation_priority
+CHARGE,衝鋒,召喚當回合即可攻擊（正常需等一回合）,1
+TAUNT,嘲諷,敵方必須優先攻擊有嘲諷的隨從,1
+BATTLE_CRY,戰吼,進場時觸發一次性效果,2
+DEATH_RATTLE,亡語,死亡時觸發效果,3

@@ -1,0 +1,13 @@
+param_name,value,description
+HERO_INITIAL_HP,30,英雄初始血量（同接數）
+MAX_MANA,10,魔力上限（SC 能量）
+MANA_PER_TURN,1,每回合增加的魔力上限
+DECK_SIZE,20,牌組張數（企劃清單）
+STARTING_HAND,3,起始手牌數（今日行程表）
+FIELD_LIMIT,4,場上隨從上限（同時連動上限）
+DRAW_PER_TURN,1,每回合抽牌數（新企劃到來）
+FATIGUE_DAMAGE,2,牌組抽完後每回合的疲勞傷害
+MAX_SAME_CARD,2,同名卡牌在牌組中的上限
+MAX_LEGENDARY,1,傳說卡（4星）在牌組中的上限
+FACTION_ADVANTAGE_MULTIPLIER,1.5,陣營剋制時的傷害倍率
+FACTION_DISADVANTAGE_MULTIPLIER,0.75,被剋制時的傷害倍率

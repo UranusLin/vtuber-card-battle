@@ -1,0 +1,50 @@
+id,name,faction,card_type,mana_cost,attack,health,rarity,ability,effect_type,effect_value,target_type,effect_desc,flavor_text
+1,厄倫蒂兒,DEEP_SPACE,VTUBER,5,4,6,4,,HEAL_ALL_ALLY,1,,回合結束恢復全體友方 1 HP,來自最遙遠恆星的療癒歌聲
+2,涅默,DEEP_SPACE,VTUBER,4,5,4,3,,BUFF_CONDITIONAL,2,,場上有其他極深空成員時 ATK +2,因為有你才能存在的太陽伴星
+3,埃穆亞,DEEP_SPACE,VTUBER,3,3,4,3,BATTLE_CRY,DRAW,1,,戰吼：抽 1 張牌,來自遠方的信使帶來了新的訊息
+4,熙歌,DEEP_SPACE,VTUBER,6,6,5,4,BATTLE_CRY,BOUNCE,1,SINGLE_ENEMY,戰吼：將 1 隻敵方送回手牌,黑洞的傳送門將一切吸入虛空
+5,15號,RESCUTE,VTUBER,3,4,3,3,,GAIN_MANA_ON_KILL,1,,擊殺敵方時獲得 +1 魔力水晶,成為偶像賺大錢買下家園保護同胞！
+6,露恰露恰,RESCUTE,VTUBER,4,2,6,3,TAUNT,HEAL_ALL_ALLY,1,,嘲諷。回合結束恢復友方全體 1 HP,大姊永遠擋在最前面照顧大家
+7,歐貝爾,RESCUTE,VTUBER,5,5,7,4,TAUNT,COUNTER_ATTACK,50,,嘲諷。被攻擊時 50% 機率反擊,雖然超級緊張但還是勇敢地站出來了！
+8,雲隙光,CELESTIAL,VTUBER,3,3,3,2,CHARGE,,,,衝鋒,穿透雲層的瞬間萬丈光芒
+9,冰霧,CELESTIAL,VTUBER,4,2,5,3,BATTLE_CRY,FREEZE,1,SINGLE_ENEMY,戰吼：凍結 1 隻敵方（跳過下回合）,極寒之霧覆蓋一切
+10,白白虹,CELESTIAL,VTUBER,3,2,4,2,,THORNS,1,,受傷時對攻擊者造成 1 點反傷,七彩折射的光芒會灼傷觸碰者
+11,幻月,CELESTIAL,VTUBER,5,4,5,3,,PHASE_SHIFT,2,,每回合在 +2 ATK / +2 HP 間切換,月相更迭帶來不同的力量
+12,賽特珞,TIMAEUS,VTUBER,4,5,3,3,CHARGE,,,,衝鋒,最快的劍就是最強的劍
+13,艾斯珀達,TIMAEUS,VTUBER,3,4,3,2,,EXTRA_ATTACK_ON_KILL,,,擊殺目標後可再攻擊一次,一劍既出必取敵首
+14,格萊伊,TIMAEUS,VTUBER,5,3,6,3,TAUNT,DAMAGE_ALL_ENEMY_ON_DEATH,2,,嘲諷。亡語：對全體敵方 2 傷害,聖杯碎裂時光芒將吞噬一切
+15,穆恩佐,TIMAEUS,VTUBER,6,7,5,4,BATTLE_CRY,EXECUTE,3,SINGLE_ENEMY,戰吼：消滅 1 隻 HP ≤ 3 的敵方,終焉之刃不留活口
+16,拉斐利婭,PARADOX,VTUBER,5,4,5,4,,COMBO_BUFF,3,,場上有安特羅迦時雙方 ATK +3,悖論的一面——光芒
+17,安特羅迦,PARADOX,VTUBER,5,5,4,4,DEATH_RATTLE,REVIVE_SWAPPED,,,亡語：以 ATK/HP 互換的狀態復活,悖論的另一面——因果反轉
+18,歌回直播,DEEP_SPACE,TALENT,3,0,0,2,,HEAL,5,HERO,恢復己方英雄 5 HP,今晚的歌聲特別溫暖
+19,天文台連動,DEEP_SPACE,TALENT,4,0,0,3,,DAMAGE,2,ALL_ENEMIES,對全體敵方造成 2 點傷害,星空的力量降臨戰場
+20,環球音樂出道,DEEP_SPACE,TALENT,7,0,0,4,,SUMMON_RANDOM,1,FACTION,從牌組召喚 1 名隨機極深空成員,正式出道的那一刻全世界都在看
+21,保育宣導,RESCUTE,TALENT,2,0,0,2,,BUFF,3,SINGLE_ALLY,一隻友方隨從 +0 ATK / +3 HP,讓更多人認識瀕危動物的重要性
+22,闆闆出動,RESCUTE,TALENT,4,0,0,3,,HEAL_FULL,0,SINGLE_ALLY,恢復一隻友方隨從至滿血,闆闆永遠是最強後盾
+23,瀕危動物之力,RESCUTE,TALENT,5,0,0,3,,GRANT_TAUNT,0,ALL_ALLIES,全體友方隨從獲得嘲諷,瀕危但絕不退縮
+24,暴風預警,CELESTIAL,TALENT,3,0,0,2,,DAMAGE,4,SINGLE_ENEMY,對單一目標造成 4 點傷害,天氣預報：大暴風即將來襲
+25,天氣異常,CELESTIAL,TALENT,5,0,0,4,,FREEZE,0,ALL_ENEMIES,凍結全體敵方（跳過下回合）,異常寒流席捲整個戰場
+26,極光降臨,CELESTIAL,TALENT,4,0,0,3,,HEAL_AND_DRAW,3,HERO,恢復己方英雄 3 HP 並抽 1 張牌,極光的美麗蘊含著能量
+27,武器強化,TIMAEUS,TALENT,2,0,0,2,,BUFF,3,SINGLE_ALLY,一隻友方隨從 +3 ATK / +0 HP,鍛造師的極致工藝
+28,斷鋼一擊,TIMAEUS,TALENT,4,0,0,3,,DAMAGE,6,SINGLE_ENEMY,對單一目標造成 6 點傷害,能斬斷鋼鐵的究極一刀
+29,四劍合璧,TIMAEUS,TALENT,6,0,0,4,,BUFF,2,ALL_ALLIES,全體友方隨從 +2 ATK,四把聖器同時共鳴的力量
+30,時空悖論,PARADOX,TALENT,4,0,0,3,,SWAP_STATS,0,SINGLE_ENEMY,將 1 隻敵方的 ATK 和 HP 互換,因果律在此刻崩壞
+31,維度裂縫,PARADOX,TALENT,6,0,0,4,,SUMMON_RANDOM,1,ANY,從任意陣營隨機召喚 1 隻隨從,裂縫彼端不知道會出現什麼
+32,物理常數崩壞,PARADOX,TALENT,3,0,0,2,,DAMAGE_RANDOM,6,SINGLE_ENEMY,隨機對 1 隻敵方造成 1~6 點傷害,物理定律已不再適用
+33,SC 紅色超級留言,NEUTRAL,TALENT,2,0,0,1,,HEAL,3,HERO,恢復己方英雄 3 HP,觀眾的愛心超級留言
+34,聯動企劃,NEUTRAL,TALENT,3,0,0,2,,DRAW,2,,抽 2 張牌,跨團聯動帶來新的可能性
+35,YT 黃標危機,NEUTRAL,TALENT,4,0,0,3,,DESTROY_RANDOM,1,ANY,隨機消滅場上 1 隻隨從（敵我皆可能）,黃標降臨誰都無法倖免
+36,百萬訂閱達成,NEUTRAL,TALENT,8,0,0,4,,DAMAGE,10,ENEMY_HERO,對敵方英雄造成 10 點傷害,一百萬人的力量匯聚而成的一擊
+37,剪輯精華上片,NEUTRAL,TALENT,1,0,0,1,,DRAW,1,,抽 1 張牌,精華剪輯讓更多人認識你
+38,湯圓碗應援棒,DEEP_SPACE,SUPPORT,2,2,0,2,,,,,+2 ATK,湯圓碗們的應援聲震天
+39,極深空專輯,DEEP_SPACE,SUPPORT,3,1,3,3,,,,,+1 ATK / +3 HP,首張同名原創專輯
+40,石虎路殺警示牌,RESCUTE,SUPPORT,1,0,2,1,,,,,+0 ATK / +2 HP,注意石虎出沒
+41,保育大使徽章,RESCUTE,SUPPORT,3,1,2,3,TAUNT,,,,+1 ATK / +2 HP 並獲得嘲諷,戴上徽章的那刻起就是守護者
+42,氣象觀測儀,CELESTIAL,SUPPORT,2,1,1,2,,,,,+1 ATK / +1 HP,精準掌握天氣脈動
+43,天象護符,CELESTIAL,SUPPORT,3,0,4,3,,,,,+0 ATK / +4 HP,天象之力凝結的護符
+44,鍛造之錘,TIMAEUS,SUPPORT,2,3,0,2,,,,,+3 ATK / +0 HP,千錘百鍊的極致
+45,聖器碎片,TIMAEUS,SUPPORT,3,2,2,3,,,,,+2 ATK / +2 HP,古老聖器殘存的力量
+46,悖論結晶,PARADOX,SUPPORT,2,2,1,2,,,,,+2 ATK / +1 HP,悖論凝結而成的晶體
+47,螢光棒,NEUTRAL,SUPPORT,1,1,0,1,,,,,+1 ATK,應援的基本配備
+48,會限周邊 T-shirt,NEUTRAL,SUPPORT,2,0,3,2,,,,,+0 ATK / +3 HP,限定周邊的防護力
+49,3D 演唱會門票,NEUTRAL,SUPPORT,4,3,2,3,,,,,+3 ATK / +2 HP,3D LIVE 的震撼體驗
